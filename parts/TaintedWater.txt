@@ -1,0 +1,7 @@
+Name Tainted Water
+ShortName waterTainted
+Icon waterTainted
+Colour 255 255 255
+ItemID 9001
+Category Misc
+StackSize 4
